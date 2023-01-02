@@ -1,0 +1,134 @@
+[
+    {
+        "id": "f796d2f76cabba5eed09a288",
+        "service_id": "01",
+        "title": "Electrical System",
+        "price": "$20",
+        "img": "https://ibb.co/Mpsr3X0",
+        "description": 38,
+        "facility": [
+            {
+                "name": "",
+                "description": ""
+            },
+            {
+                "name": "",
+                "description": ""
+            },
+            {
+                "name": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "id": "b67fd220497096c56c119e7e",
+        "service_id": "02",
+        "title": "Engine Diagnostics",
+        "price": "$30",
+        "img": "https://ibb.co/zJd5gYr",
+        "description": 40,
+        "facility": [
+            {
+                "name": "",
+                "description": ""
+            },
+            {
+                "name": "",
+                "description": ""
+            },
+            {
+                "name": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "id": "28b42a1d46eb3f1ad1c65c13",
+        "service_id": "03",
+        "title": "Auto Car Repair",
+        "price": "$40",
+        "img": "https://ibb.co/nwqh5fH",
+        "description": 33,
+        "facility": [
+            {
+                "name": "",
+                "description": ""
+            },
+            {
+                "name": "",
+                "description": ""
+            },
+            {
+                "name": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "id": "492ec43e6fa3ebc353b03d91",
+        "service_id": "04",
+        "title": "Electrical System",
+        "price": "$50",
+        "img": "https://ibb.co/51GZVHy",
+        "description": 30,
+        "facility": [
+            {
+                "name": "",
+                "description": ""
+            },
+            {
+                "name": "",
+                "description": ""
+            },
+            {
+                "name": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "id": "dc24b46927e816b0d2512cc5",
+        "service_id": "05",
+        "title": "Engine Diagnostics",
+        "price": "$60",
+        "img": "https://ibb.co/Kh4pg40",
+        "description": 42,
+        "facility": [
+            {
+                "name": "",
+                "description": ""
+            },
+            {
+                "name": "",
+                "description": ""
+            },
+            {
+                "name": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "id": "9ad2c46b1b0027a1d6513f38",
+        "service_id": "06",
+        "title": "Auto Car Repair",
+        "price": "$60",
+        "img": "https://ibb.co/HBB2jWM",
+        "description": 48,
+        "facility": [
+            {
+                "name": "",
+                "description": ""
+            },
+            {
+                "name": "",
+                "description": ""
+            },
+            {
+                "name": "",
+                "description": ""
+            }
+        ]
+    }
+]

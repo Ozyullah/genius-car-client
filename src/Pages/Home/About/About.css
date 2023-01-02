@@ -1,0 +1,17 @@
+
+.imageOne{
+    position: relative;
+    border-radius: 5px;
+    width: 45%;   
+}
+
+.imageTwo{
+    position: absolute;
+
+    top: 45%;
+    left: 18%;
+    border-radius: 5px;
+    border: solid 5px white;
+
+    width: 250px;
+}
