@@ -3,7 +3,7 @@ import React from 'react';
 import { useContext } from 'react';
 import { FaFacebook, FaLinkedinIn } from 'react-icons/fa';
 import { FcGoogle } from 'react-icons/fc';
-import { Form, Link } from 'react-router-dom';
+import { Form, Link, Navigate } from 'react-router-dom';
 import image from '../../assets/images/login/login.svg'
 import { CarContext } from '../../Context/AuthContext';
 
@@ -20,22 +20,24 @@ const Login = () => {
         const password =form.password.value;
 
         form.reset('');
+
         
         loginWithEmailPassword(email,password)
         .then((reasult)=>{
             const user =reasult.user;
+            
         })
         .catch((error)=>{
             console.error('firebaseError',error)
         })
     }
+    
 
     const handleSignInWithGoogle=()=>{
         
         const Provider =new GoogleAuthProvider();
             console.log(Provider)
         signInWithGoogle(Provider);
-
 
     }
 
